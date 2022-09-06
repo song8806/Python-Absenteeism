@@ -1,3 +1,3 @@
 # Python-Absenteeism
 Pandas Dataframe preprocessing project. Data from Complete Data Analyst Bootcamp. Drop unnecessary columns. Used dummy variables for 28 reasons for absence and group reasons by categories, created new columns, and concatenate columns to the data. Converted 'Date' column into timestamp values, extracted the Month values and created a 'Month' column for loop. Extracted weekday values and created a 'Day of the Week' column using .apply(). Using map() function to reassign 'Education' column values (0 for high school-about 600 total, 1 for above high school- about 100 total).[Absenteeism (Pandas Preprocessing).txt](https://github.com/song8806/Python-Absenteeism/files/9492751/Absenteeism.Pandas.Preprocessing.txt)
-[Absenteeism (Pandas Preprocessing).txt]
+
